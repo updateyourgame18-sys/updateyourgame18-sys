@@ -3,8 +3,8 @@
 ![Profile Views](https://komarev.com)
 //languages I know
 #languages I know 
-![Rust](https://sheilds.io)
-![Bash](https://sheilds.io)
-![Linux](https://sheilds.io)
+![Rust](https://shields.io)
+![Bash](https://shields.io)
+![Linux](https://shields.io)
 #my favorite distro
-![Arch Linux](https://sheilds.io)
+![Arch Linux](https://shields.io)
