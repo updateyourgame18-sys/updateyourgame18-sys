@@ -1,7 +1,5 @@
 I like redstar os
-![Profile Views](https://komarev.com/ghpvc/updateyourgame18-sys))
-//languages I know
-#languages I know 
+![Profile Views](https://komarev.com/ghpvc/?updateyourgame18-sys)
 ![Rust](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust)
 ![Bash](https://img.shields.io/badge/-Bash-%23c9d1d9?logo=gnubash&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
